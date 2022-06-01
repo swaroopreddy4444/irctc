@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Step 1: chrome is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 2: https://www.irctc.co.in/ is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: ok clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: clicked Flights successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 5: Verified One-Way Selected]]>
+    </line>
+    <line>
+      <![CDATA[pass]]>
+    </line>
+    <line>
+      <![CDATA[6. Browser is closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-07T17:20:56 IST" name="Default suite" finished-at="2022-05-07T17:21:26 IST" duration-ms="30225">
+    <groups>
+    </groups>
+    <test started-at="2022-05-07T17:20:56 IST" name="Default test" finished-at="2022-05-07T17:21:26 IST" duration-ms="30225">
+      <class name="com.javalaya.irctc.testrunner.IRCTC_Runner">
+        <test-method signature="validate_OneWayRadioTest()[pri:0, instance:com.javalaya.irctc.testrunner.IRCTC_Runner@3e27aa33]" started-at="2022-05-07T17:20:56 IST" name="validate_OneWayRadioTest" finished-at="2022-05-07T17:21:26 IST" duration-ms="30160" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1: chrome is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 2: https://www.irctc.co.in/ is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: ok clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: clicked Flights successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 5: Verified One-Way Selected]]>
+            </line>
+            <line>
+              <![CDATA[pass]]>
+            </line>
+            <line>
+              <![CDATA[6. Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validate_OneWayRadioTest -->
+      </class> <!-- com.javalaya.irctc.testrunner.IRCTC_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
