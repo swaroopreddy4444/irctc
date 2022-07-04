@@ -9,11 +9,11 @@ public class FlightsPage extends BasePage {
 
 	public FlightsPage(WebDriver driver) {
 		super(driver);
-//		PageFactory.initElements(FlightsPage.super.driver, FlightsPage.this);
+		PageFactory.initElements(FlightsPage.super.driver, FlightsPage.this);
 	}
 
 	public boolean verifyOneWayRadioBtnSelection() {
-		return super.getElement(LocatorType.ID, "One-Way").isSelected();
+		return super.getElement(LocatorType.ID, "OneWay").isSelected();
 	}
 
 }

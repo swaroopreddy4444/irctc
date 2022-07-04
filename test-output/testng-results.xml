@@ -23,12 +23,12 @@
       <![CDATA[6. Browser is closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-06-01T21:41:01 IST" name="Default suite" finished-at="2022-06-01T21:42:13 IST" duration-ms="71748">
+  <suite started-at="2022-06-07T09:01:09 IST" name="Default suite" finished-at="2022-06-07T09:01:27 IST" duration-ms="17764">
     <groups>
     </groups>
-    <test started-at="2022-06-01T21:41:01 IST" name="Default test" finished-at="2022-06-01T21:42:13 IST" duration-ms="71748">
+    <test started-at="2022-06-07T09:01:09 IST" name="Default test" finished-at="2022-06-07T09:01:27 IST" duration-ms="17764">
       <class name="com.javalaya.irctc.testrunner.IRCTC_Runner">
-        <test-method signature="validate_OneWayRadioTest()[pri:0, instance:com.javalaya.irctc.testrunner.IRCTC_Runner@2de56eb2]" started-at="2022-06-01T21:41:01 IST" name="validate_OneWayRadioTest" finished-at="2022-06-01T21:42:13 IST" duration-ms="71643" status="PASS">
+        <test-method signature="validate_OneWayRadioTest()[pri:0, instance:com.javalaya.irctc.testrunner.IRCTC_Runner@740fb309]" started-at="2022-06-07T09:01:09 IST" name="validate_OneWayRadioTest" finished-at="2022-06-07T09:01:27 IST" duration-ms="17708" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Step 1: chrome is loaded successfully]]>
